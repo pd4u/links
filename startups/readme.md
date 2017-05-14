@@ -3,3 +3,4 @@
 * [indie hackers](https://www.indiehackers.com/businesses)
 * [paul graham](http://www.paulgraham.com/articles.html)
 * [avc, fred wilson](http://avc.com)
+* [list of useful resources, quora](https://www.quora.com/What-are-the-best-websites-for-entrepreneurs)
