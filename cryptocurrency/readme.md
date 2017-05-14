@@ -13,3 +13,9 @@
 * [token card](http://tokencard.io)
 * [shift card](https://www.shiftpayments.com/card)
 
+### interviews:
+* [epicenter](https://epicenter.tv)
+
+### news:
+* [coindesk](http://www.coindesk.com)
+* [cointelegraph](https://cointelegraph.com)
