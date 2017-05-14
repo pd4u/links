@@ -43,7 +43,7 @@
 
 ### zero knowledge proofs, anonymity
 * [coindesk](http://www.coindesk.com/trend-towards-blockchain-privacy-zero-knowledge-proofs/)
-* [prof shafi goldwasser](https://www.youtube.com/watch?v=ofk2kGKEFag)
+* [prof shafi goldwasser on data privacy](https://www.youtube.com/watch?v=ofk2kGKEFag)
 
 ### interesting reports and papers
 * [2017 global cryptocurrency benchmarking study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2965436)
