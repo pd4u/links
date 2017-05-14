@@ -24,8 +24,23 @@
 ### what is an initial coin offering (ico)?
 * [harvard business review article](https://hbr.org/2017/03/what-initial-coin-offerings-are-and-why-vc-firms-care)
 * [investors](https://pitchbook.com/newsletter/the-top-9-vc-investors-in-bitcoin-blockchain)
-
+* [smith and crown, ico calendar](https://www.smithandcrown.com/icos/)
 
 ### consensus algorithms
+* [coindesk](http://www.coindesk.com/short-guide-blockchain-consensus-protocols/)
+
+
+### famous hacks and issues:
+* [mt. gox, wired] (https://www.wired.com/2014/03/bitcoin-exchange/)
+* [dao, coindesk](http://www.coindesk.com/understanding-dao-hack-journalists/)
+* [dao, hackingdistributed](http://hackingdistributed.com/2016/06/18/analysis-of-the-dao-exploit/)
+* [bitfinex hack, wiki](https://en.wikipedia.org/wiki/Bitfinex_hack)
+* [tether, US pegged crypto fiat reserves](http://thebitcoinwire.com/tether-to-balance-sheet-unveils-large-discrepancy-between-usdt-and-usd-reserves/)
+
 
 ### scalability
+* [on scaling decentralized blockchain, paper](http://fc16.ifca.ai/bitcoin/papers/CDE+16.pdf)
+
+
+### interesting reports and papers:
+* [2017 global cryptocurrency benchmarking study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2965436)
