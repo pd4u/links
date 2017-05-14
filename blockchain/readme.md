@@ -17,6 +17,7 @@
 * [princeton lecture, arvind narayanan](https://www.youtube.com/watch?v=WO2Tm0leGn8)
 
 ### what is private blockchain?
+* [ethereum blog](https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains/)
 * [hyperledger](https://www.hyperledger.org/)
 * [andreas antonopolous' view](https://www.youtube.com/watch?v=haKVaGHKQJM)
 
