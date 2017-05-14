@@ -2,7 +2,7 @@
 ### pricing:
 * [coin market cap](http://coinmarketcap.com/)
 
-### wallets and exchanges:
+### exchanges:
 * [gemini](https://gemini.com)
 * [coinbase](https://www.coinbase.com)
 * [bittrex](https://bittrex.com)
