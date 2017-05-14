@@ -1,0 +1,5 @@
+* [ycombinator startups](http://yclist.com)
+* [startup graveyard](http://startupgraveyard.io/)
+* [indie hackers](https://www.indiehackers.com/businesses)
+* [paul graham](http://www.paulgraham.com/articles.html)
+* [avc, fred wilson](http://avc.com)
