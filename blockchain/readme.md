@@ -4,6 +4,7 @@
 
 ### bitcoin
 * [weusecoins video](https://www.youtube.com/watch?v=Um63OQz3bjo)
+* [original bitcoin paper by satoshi](http://fermatslibrary.com/s/bitcoin)
 
 ### ethereum
 * [vitalik's explanation](https://www.youtube.com/watch?v=TDGq4aeevgY)
