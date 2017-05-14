@@ -16,7 +16,7 @@
 * [princeton lecture, arvind narayanan](https://www.youtube.com/watch?v=WO2Tm0leGn8)
 
 
-### decentralize apps
+### decentralized apps
 * [status.im, mobile ethereum os](https://status.im/)
 * [golem, ethereum based dec computation](https://golem.network/)
 * [augur, ethereum based prediction market](https://augur.net/)
