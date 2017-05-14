@@ -16,12 +16,12 @@
 ### decentralization
 * [princeton lecture, arvind narayanan](https://www.youtube.com/watch?v=WO2Tm0leGn8)
 
-### what is private blockchain?
+### private blockchain
 * [ethereum blog](https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains/)
 * [hyperledger](https://www.hyperledger.org/)
 * [andreas antonopolous' view](https://www.youtube.com/watch?v=haKVaGHKQJM)
 
-### what is an initial coin offering (ico)?
+### initial coin offering (ico)
 * [harvard business review article](https://hbr.org/2017/03/what-initial-coin-offerings-are-and-why-vc-firms-care)
 * [investors](https://pitchbook.com/newsletter/the-top-9-vc-investors-in-bitcoin-blockchain)
 * [smith and crown, ico calendar](https://www.smithandcrown.com/icos/)
