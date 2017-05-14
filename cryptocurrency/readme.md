@@ -1,13 +1,15 @@
-[coin market cap] : http://coinmarketcap.com
 
+### pricing:
+* [coin market cap](http://coinmarketcap.com/)
 
-pricing:
-[coin market cap]
+### wallets and exchanges:
+* [gemini](https://gemini.com)
+* [coinbase](https://www.coinbase.com)
+* [bittrex](https://bittrex.com)
+* [gdax](https://www.gdax.com)
+* [poloniex](https://www.poloniex.com/)
 
-wallets and exchanges:
-https://gemini.com
-https://www.coinbase.com
-https://www.coinbase.com
-https://bittrex.com
-
+### debit cards:
+* [token card](http://tokencard.io)
+* [shift card](https://www.shiftpayments.com/card)
 
