@@ -1,5 +1,8 @@
+[coin market cap] : http://coinmarketcap.com
+
+
 pricing:
-http://coinmarketcap.com
+[coin market cap]
 
 wallets and exchanges:
 https://gemini.com
