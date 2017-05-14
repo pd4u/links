@@ -31,7 +31,7 @@
 
 
 ### famous hacks and issues:
-* [mt. gox, wired] (https://www.wired.com/2014/03/bitcoin-exchange/)
+* [mt. gox, wired](https://www.wired.com/2014/03/bitcoin-exchange/)
 * [dao, coindesk](http://www.coindesk.com/understanding-dao-hack-journalists/)
 * [dao, hackingdistributed](http://hackingdistributed.com/2016/06/18/analysis-of-the-dao-exploit/)
 * [bitfinex hack, wiki](https://en.wikipedia.org/wiki/Bitfinex_hack)
