@@ -12,9 +12,15 @@
 * [smart contracts symposium, nick szabo](https://youtu.be/v_-mxyN4pcY?t=267)
 * [formal verification](https://www.youtube.com/watch?v=rx0NPckEWGI)
 
-
 ### decentralization
 * [princeton lecture, arvind narayanan](https://www.youtube.com/watch?v=WO2Tm0leGn8)
+
+
+### decentralize apps
+* [augur, ethereum based prediction markets](https://augur.net/)
+* [gnosis, ethereum based prediction marketss](https://gnosis.pm/)
+* [status.im, mobile ethereum os](https://status.im/)
+
 
 ### private blockchain
 * [ethereum blog](https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains/)
