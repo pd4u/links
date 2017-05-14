@@ -17,9 +17,12 @@
 
 
 ### decentralize apps
-* [augur, ethereum based prediction markets](https://augur.net/)
-* [gnosis, ethereum based prediction marketss](https://gnosis.pm/)
 * [status.im, mobile ethereum os](https://status.im/)
+* [golem, ethereum based dec computation](https://golem.network/)
+* [augur, ethereum based prediction market](https://augur.net/)
+* [gnosis, ethereum based prediction market](https://gnosis.pm/)
+* [full list by market cap, coin market cap](http://coinmarketcap.com/assets/views/all/)
+
 
 
 ### private blockchain
