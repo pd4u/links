@@ -19,6 +19,7 @@
 ### news
 * [coindesk](http://www.coindesk.com)
 * [cointelegraph](https://cointelegraph.com)
+* [week in ethereum](http://www.weekinethereum.com/)
 
 ### valuation
 * [metastable capital blog](http://metastablecapital.com/what-drives-the-value-of-crypto-currencies/)
