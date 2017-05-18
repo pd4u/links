@@ -5,6 +5,7 @@
 ### exchanges
 * [gemini](https://gemini.com)
 * [coinbase](https://www.coinbase.com)
+* [shapeshift](https://shapeshift.io)
 * [bittrex](https://bittrex.com)
 * [gdax](https://www.gdax.com)
 * [poloniex](https://www.poloniex.com/)
@@ -24,5 +25,6 @@
 ### valuation
 * [metastable capital blog](http://metastablecapital.com/what-drives-the-value-of-crypto-currencies/)
 * [should you invest in btc?, forbes](https://www.forbes.com/sites/laurashin/2015/12/11/should-you-invest-in-bitcoin-10-arguments-in-favor-as-of-december-2015/#44cb35172df2)
+
 
 
