@@ -58,3 +58,4 @@
 
 ### interesting reports and papers
 * [2017 global cryptocurrency benchmarking study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2965436)
+* [blockchains could add trillions of dollars to global economy](http://www.huffingtonpost.com/entry/591dac73e4b07617ae4cb9ba)
