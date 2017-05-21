@@ -1,6 +1,7 @@
 
 ### pricing
 * [coin market cap](http://coinmarketcap.com/)
+* [fiatleak](http://fiatleak.com/)
 
 ### exchanges
 * [gemini](https://gemini.com)
