@@ -11,3 +11,7 @@
 ### news
 * [hacker news](https://news.ycombinator.com)
 * [hacker news with tags](http://www.taggernews.com/news/)
+
+
+### courses, videos
+* [startup school](https://www.startupschool.org)
