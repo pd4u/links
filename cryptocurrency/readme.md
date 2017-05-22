@@ -33,4 +33,5 @@
 * [Mike Novogratz's answer](https://www.youtube.com/watch?v=mqm5bqy-C9Y)
 * [quora](https://www.quora.com/Is-crypto-currency-going-into-a-bubble)
 * [tulip mania](https://en.wikipedia.org/wiki/Tulip_mania)
+* [the worgl experiment](http://www.lietaer.com/2010/03/the-worgl-experiment/)
 
