@@ -23,6 +23,7 @@
 * [golem, distributed computation](https://golem.network/)
 * [augur, prediction market](https://augur.net/)
 * [gnosis, prediction market](https://gnosis.pm/)
+* [consensys](https://consensys.net/ventures/spokes/)
 * [full list by market cap, coin market cap](http://coinmarketcap.com/assets/views/all/)
 
 
