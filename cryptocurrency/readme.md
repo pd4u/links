@@ -32,7 +32,7 @@
 * [should you invest in btc?, forbes](https://www.forbes.com/sites/laurashin/2015/12/11/should-you-invest-in-bitcoin-10-arguments-in-favor-as-of-december-2015/#44cb35172df2)
 
 
-### is it a bubble already?
+### bubble
 * [mike novogratz's answer](https://www.youtube.com/watch?v=mqm5bqy-C9Y)
 * [quora](https://www.quora.com/Is-crypto-currency-going-into-a-bubble)
 * [tulip mania](https://en.wikipedia.org/wiki/Tulip_mania)
