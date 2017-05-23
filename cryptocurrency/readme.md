@@ -17,6 +17,7 @@
 ### debit cards
 * [token card](http://tokencard.io)
 * [shift card](https://www.shiftpayments.com/card)
+* [bitpay](https://bitpay.com/card)
 * [stores](http://www.coindesk.com/information/what-can-you-buy-with-bitcoins/)
 
 ### interviews
