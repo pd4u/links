@@ -10,6 +10,7 @@
 * [gemini](https://gemini.com)
 * [coinbase](https://www.coinbase.com)
 * [shapeshift](https://shapeshift.io)
+* [shapeshift prism](https://prism.exchange/)
 * [jaxx](https://jaxx.io)
 * [bittrex](https://bittrex.com)
 * [gdax](https://www.gdax.com)
