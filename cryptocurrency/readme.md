@@ -1,7 +1,10 @@
 
 ### pricing
 * [coin market cap](http://coinmarketcap.com/)
+* [coincap](http://coincap.io)
+* [coingecko](https://www.coingecko.com)
 * [fiatleak](http://fiatleak.com/)
+* [ico stats](https://icostats.com)
 
 ### exchanges
 * [gemini](https://gemini.com)
