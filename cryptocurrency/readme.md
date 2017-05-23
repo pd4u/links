@@ -6,10 +6,11 @@
 * [fiatleak](http://fiatleak.com/)
 * [ico stats](https://icostats.com)
 
-### exchanges
+### exchanges/wallets
 * [gemini](https://gemini.com)
 * [coinbase](https://www.coinbase.com)
 * [shapeshift](https://shapeshift.io)
+* [jaxx](https://jaxx.io)
 * [bittrex](https://bittrex.com)
 * [gdax](https://www.gdax.com)
 * [poloniex](https://www.poloniex.com/)
