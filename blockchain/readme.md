@@ -35,6 +35,7 @@
 
 ### initial coin offering (ico)
 * [harvard business review article](https://hbr.org/2017/03/what-initial-coin-offerings-are-and-why-vc-firms-care)
+* [ico overview, techinasia article](https://www.techinasia.com/ico-overview)
 * [investors](https://pitchbook.com/newsletter/the-top-9-vc-investors-in-bitcoin-blockchain)
 * [avc - coinlist](http://avc.com/2017/05/funding-friday-coinlist/)
 * [smith and crown, ico calendar](https://www.smithandcrown.com/icos/)
