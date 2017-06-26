@@ -8,6 +8,7 @@
 
 ### ethereum
 * [vitalik's explanation](https://www.youtube.com/watch?v=TDGq4aeevgY)
+* [what is an ethereum token, blockgeeks article](https://blockgeeks.com/guides/ethereum-token/)
 
 ### smart contract
 * [smart contracts symposium, nick szabo](https://youtu.be/v_-mxyN4pcY?t=267)
