@@ -46,3 +46,6 @@
 * [more on tulip mania and cryptocurrencies](https://stratechery.com/2017/tulips-myths-and-cryptocurrencies/)
 * [the worgl experiment](http://www.lietaer.com/2010/03/the-worgl-experiment/)
 
+### more links
+* [cryptominded](https://cryptominded.com/)
+
