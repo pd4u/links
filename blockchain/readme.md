@@ -40,6 +40,7 @@
 * [investors](https://pitchbook.com/newsletter/the-top-9-vc-investors-in-bitcoin-blockchain)
 * [avc - coinlist](http://avc.com/2017/05/funding-friday-coinlist/)
 * [smith and crown, ico calendar](https://www.smithandcrown.com/icos/)
+* [analyzing token sales, vitalik](http://vitalik.ca/general/2017/06/09/sales.html)
 
 ### consensus algorithms
 * [coindesk](http://www.coindesk.com/short-guide-blockchain-consensus-protocols/)
