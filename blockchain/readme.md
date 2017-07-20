@@ -19,6 +19,7 @@
 
 
 ### decentralized apps
+* [directory of networks/apps, coindexter](https://coindexter.io/networks/)
 * [status.im, mobile ethereum os](https://status.im/)
 * [storj, distributed storage](https://storj.io)
 * [golem, distributed computation](https://golem.network/)
