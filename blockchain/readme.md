@@ -53,7 +53,7 @@
 * [bitfinex hack, wiki](https://en.wikipedia.org/wiki/Bitfinex_hack)
 * [tether, US pegged crypto fiat reserves](http://thebitcoinwire.com/tether-to-balance-sheet-unveils-large-discrepancy-between-usdt-and-usd-reserves/)
 * [coindash ico - $7M hack, coindesk](https://www.newyorkfed.org/markets/gsds/search.html#)
-
+* [parity multi-sig wallet hack](https://blog.aeternity.com/parity-multisig-wallet-hack-47cc507d964d)
 * [bitcoin transaction malleability](https://eklitzke.org/bitcoin-transaction-malleability)
 
 ### scalability
