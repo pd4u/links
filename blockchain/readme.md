@@ -52,7 +52,9 @@
 * [dao, hackingdistributed](http://hackingdistributed.com/2016/06/18/analysis-of-the-dao-exploit/)
 * [bitfinex hack, wiki](https://en.wikipedia.org/wiki/Bitfinex_hack)
 * [tether, US pegged crypto fiat reserves](http://thebitcoinwire.com/tether-to-balance-sheet-unveils-large-discrepancy-between-usdt-and-usd-reserves/)
+* [coindash ico - $7M hack, coindesk](https://www.newyorkfed.org/markets/gsds/search.html#)
 
+* [bitcoin transaction malleability](https://eklitzke.org/bitcoin-transaction-malleability)
 
 ### scalability
 * [on scaling decentralized blockchain, paper](http://fc16.ifca.ai/bitcoin/papers/CDE+16.pdf)
