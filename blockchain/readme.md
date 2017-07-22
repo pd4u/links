@@ -29,6 +29,10 @@
 * [full list by market cap, coin market cap](http://coinmarketcap.com/assets/views/all/)
 
 
+### hubs
+* [crypto.valley, zug switzerland](https://cryptovalley.swiss)
+
+
 
 ### private blockchain
 * [ethereum blog](https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains/)
