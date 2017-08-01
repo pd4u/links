@@ -20,11 +20,13 @@
 * [gdax](https://www.gdax.com)
 * [poloniex](https://www.poloniex.com/)
 
-### debit cards
+### debit cards, stores
 * [token card](http://tokencard.io)
 * [shift card](https://www.shiftpayments.com/card)
 * [bitpay](https://bitpay.com/card)
+* [purse](https://purse.io)
 * [stores](http://www.coindesk.com/information/what-can-you-buy-with-bitcoins/)
+
 
 ### interviews
 * [epicenter](https://epicenter.tv)
