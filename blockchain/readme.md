@@ -74,3 +74,8 @@
 * [blockchains could add trillions of dollars to global economy](http://www.huffingtonpost.com/entry/591dac73e4b07617ae4cb9ba)
 * [why cryptosystems fail](http://www.cl.cam.ac.uk/~rja14/wcf.html)
 * [lottery as micropayments](http://fermatslibrary.com/s/electronic-lottery-tickets-as-micropayments)
+
+
+### courses 
+* [CS 251: Bitcoin and Cryptocurrencies, Stanford University](https://crypto.stanford.edu/cs251/)
+* [Bitcoin and cryptocurrencies, Coursera - Princeton University](https://www.coursera.org/learn/cryptocurrency)
