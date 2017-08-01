@@ -78,4 +78,4 @@
 
 ### courses 
 * [CS 251: Bitcoin and Cryptocurrencies, Stanford University](https://crypto.stanford.edu/cs251/)
-* [Bitcoin and cryptocurrencies, Coursera - Princeton University](https://www.coursera.org/learn/cryptocurrency)
+* [Bitcoin and cryptocurrencies, Princeton University](http://bitcoinbook.cs.princeton.edu)
