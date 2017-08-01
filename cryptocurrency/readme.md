@@ -28,6 +28,10 @@
 * [stores](http://www.coindesk.com/information/what-can-you-buy-with-bitcoins/)
 
 
+### mining
+* [bitcion mining hard way algos](http://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html)
+
+
 ### interviews
 * [epicenter](https://epicenter.tv)
 
