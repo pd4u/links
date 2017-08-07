@@ -20,3 +20,16 @@
 ### web stack
 * [passport - authentication for node.js](http://passportjs.org)
 * [authentication example using mean stack](http://mherman.org/blog/2015/07/02/handling-user-authentication-with-the-mean-stack/#.WYjAsfCECOU)
+* [webassembly](http://webassembly.org)
+* [kotlin](https://kotlinlang.org)
+
+
+### python libraries
+* [web scraping - scrapy](https://scrapy.org)
+* [nlp - spacy](https://spacy.io)
+* [sentiment analysis](https://github.com/cjhutto/vaderSentiment)
+* [tensorflow](https://www.tensorflow.org/api_guides/python/)
+
+### trending languages
+* [rust - systems programming](https://www.rust-lang.org)
+* [julia - numerical computing](https://julialang.org)
