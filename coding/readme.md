@@ -19,10 +19,14 @@
 
 ### web stack
 * [mean stack](http://mean.io)
+* [flask - microframework for python](http://flask.pocoo.org)
 * [passport - authentication for node.js](http://passportjs.org)
 * [authentication example using mean stack](http://mherman.org/blog/2015/07/02/handling-user-authentication-with-the-mean-stack/#.WYjAsfCECOU)
-* [webassembly](http://webassembly.org)
+* [jetbrains ring ui](http://www.jetbrains.org/ring-ui/index.html)
+* [charting - d3.js, nvd3.js, c3.js]
 * [kotlin](https://kotlinlang.org)
+* [webassembly](http://webassembly.org)
+
 
 
 ### python libraries
