@@ -2,6 +2,10 @@
 * [leetcode](https://leetcode.com)
 
 
+### general
+* [stackshare](https://stackshare.io/trending/tools)
+
+
 ### data tech stack
 * [amazon redshift, column oriented cloud datawarehouse](https://aws.amazon.com/redshift/)
 * [vertica, column oriented db](https://www.vertica.com)
