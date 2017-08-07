@@ -23,7 +23,7 @@
 * [passport - authentication for node.js](http://passportjs.org)
 * [authentication example using mean stack](http://mherman.org/blog/2015/07/02/handling-user-authentication-with-the-mean-stack/#.WYjAsfCECOU)
 * [jetbrains ring ui](http://www.jetbrains.org/ring-ui/index.html)
-* [charting - d3.js, nvd3.js, c3.js]
+* charting : [d3.js](https://d3js.org), [nvd3.js](http://nvd3.org), [c3.js](http://c3js.org)
 * [kotlin](https://kotlinlang.org)
 * [webassembly](http://webassembly.org)
 
