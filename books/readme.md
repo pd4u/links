@@ -1,2 +1,2 @@
 ### yc lists
-* [yc summer 2017 reading list](https://ocalog.com/post/10/)
+* [yc summer 2017 reading list](https://blog.ycombinator.com/ycs-2017-summer-reading-list/)
