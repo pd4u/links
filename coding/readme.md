@@ -18,6 +18,7 @@
 
 
 ### web stack
+* [mean stack](http://mean.io)
 * [passport - authentication for node.js](http://passportjs.org)
 * [authentication example using mean stack](http://mherman.org/blog/2015/07/02/handling-user-authentication-with-the-mean-stack/#.WYjAsfCECOU)
 * [webassembly](http://webassembly.org)
