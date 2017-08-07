@@ -32,8 +32,8 @@
 * [web scraping - scrapy](https://scrapy.org)
 * [nlp - spacy](https://spacy.io)
 * [sentiment analysis](https://github.com/cjhutto/vaderSentiment)
-* [tensorflow](https://www.tensorflow.org/api_guides/python/)
-* useful libraries list [link1](https://pythontips.com/2013/07/30/20-python-libraries-you-cant-live-without/), [link2](https://www.codementor.io/python/tutorial/6-useful-python-libraries), [link3](https://tryolabs.com/blog/2016/12/20/top-10-python-libraries-of-2016/)
+* ml : [tensorflow](https://www.tensorflow.org/api_guides/python/), [pytorch](http://pytorch.org)
+* useful libraries  : [link1](https://pythontips.com/2013/07/30/20-python-libraries-you-cant-live-without/), [link2](https://www.codementor.io/python/tutorial/6-useful-python-libraries), [link3](https://tryolabs.com/blog/2016/12/20/top-10-python-libraries-of-2016/)
 
 ### trending languages
 * [rust - systems programming](https://www.rust-lang.org)
