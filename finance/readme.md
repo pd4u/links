@@ -1,5 +1,5 @@
 
 
 ### sec filings
-* [Rank and Filed](http://rankandfiled.com)
-* [BAM SEC](https://www.bamsec.com)
+* [rank and filed](http://rankandfiled.com)
+* [bam sec](https://www.bamsec.com)
