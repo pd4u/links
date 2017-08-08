@@ -18,7 +18,7 @@
 ### courses
 * [quantopian lectures](https://www.quantopian.com/lectures)
 * [financial markets by robert shiller, coursera](https://www.coursera.org/learn/financial-markets-global)
-* [economics of money and banking](https://www.coursera.org/learn/money-banking)
+* [economics of money and banking, coursera](https://www.coursera.org/learn/money-banking)
 * [computational investing, coursera](https://www.coursera.org/learn/computational-investing)
 
 
