@@ -7,14 +7,14 @@
 
 
 ### data stack
-* [amazon redshift, column oriented cloud datawarehouse](https://aws.amazon.com/redshift/)
-* [vertica, column oriented db](https://www.vertica.com)
-* [hdf5, file based db](https://support.hdfgroup.org/HDF5/)
-* [sqlite, file based db](https://www.sqlite.org)
-* [spark, clustering](https://spark.apache.org)
-* [kafka, distributed streaming](https://kafka.apache.org)
-* [airflow, workflow/scheduling](https://airflow.incubator.apache.org)
-* [mapd, gpu db](https://www.mapd.com) {other ones : blazingdb, kinetica }
+* [amazon redshift - column oriented cloud datawarehouse](https://aws.amazon.com/redshift/)
+* [vertica - column oriented db](https://www.vertica.com)
+* [hdf5 - file based db](https://support.hdfgroup.org/HDF5/)
+* [sqlite - file based db](https://www.sqlite.org)
+* [spark - clustering](https://spark.apache.org)
+* [kafka - distributed streaming](https://kafka.apache.org)
+* [airflow - workflow/scheduling](https://airflow.incubator.apache.org)
+* [mapd - gpu db](https://www.mapd.com) {other ones : blazingdb, kinetica }
 
 
 ### web stack
@@ -38,3 +38,9 @@
 ### trending languages
 * [rust - systems programming](https://www.rust-lang.org)
 * [julia - numerical computing](https://julialang.org)
+
+
+### courses (full-stack)
+* [coursera](https://www.coursera.org/specializations/full-stack-mobile-app-development)
+* [mongodb university](https://www.mongodb.com/blog/post/announcing-mean-stack-online-course-in-partnership-with-edx)
+* [master the mean stack, udemy](https://www.udemy.com/master-the-mean-stack/)
