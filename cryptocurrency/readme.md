@@ -5,6 +5,7 @@
 
 ### pricing
 * [coin market cap](http://coinmarketcap.com/)
+* [bitcoinity](http://data.bitcoinity.org/markets/books/USD)
 * [coincap](http://coincap.io)
 * [coingecko](https://www.coingecko.com)
 * [fiatleak](http://fiatleak.com/)
