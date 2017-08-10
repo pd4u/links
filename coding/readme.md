@@ -26,6 +26,7 @@
 * charting : [d3.js](https://d3js.org), [nvd3.js](http://nvd3.org), [c3.js](http://c3js.org)
 * [kotlin](https://kotlinlang.org)
 * [webassembly](http://webassembly.org)
+* [redis and socket example - for real-time applications](https://scalegrid.io/blog/using-redis-with-node-js-and-socket-io/)
 
 
 ### python libraries
