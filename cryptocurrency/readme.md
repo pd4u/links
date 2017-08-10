@@ -1,11 +1,9 @@
-
-### intro
-* [github- kilimchoi](https://github.com/kilimchoi/cryptocurrency)
-
-
-### pricing
+### pricing/stats
 * [coin market cap](http://coinmarketcap.com/)
+* [github- kilimchoi](https://github.com/kilimchoi/cryptocurrency)
+* [coingenius.io](https://coingenius.io/coins)
 * [bitcoinity](http://data.bitcoinity.org/markets/books/USD)
+* [sentiment scores](https://github.com/fluquid/cryptocurrency)
 * [coincap](http://coincap.io)
 * [coingecko](https://www.coingecko.com)
 * [fiatleak](http://fiatleak.com/)
