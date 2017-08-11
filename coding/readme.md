@@ -9,6 +9,7 @@
 ### data stack
 * [amazon redshift - column oriented cloud datawarehouse](https://aws.amazon.com/redshift/)
 * [vertica - column oriented db](https://www.vertica.com)
+* [timescale - time series db](http://www.timescale.com/index.html)
 * [hdf5 - file based db](https://support.hdfgroup.org/HDF5/)
 * [sqlite - file based db](https://www.sqlite.org)
 * [spark - clustering](https://spark.apache.org)
