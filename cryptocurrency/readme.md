@@ -28,6 +28,7 @@
 
 
 ### mining
+* [what to mine](http://whattomine.com)
 * [bitcion mining hard way algos](http://www.righto.com/2014/02/bitcoin-mining-hard-way-algorithms.html)
 
 
